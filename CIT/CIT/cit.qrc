@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/CIT">
+        <file>Resources/exit_press.png</file>
+        <file>Resources/setting_press.png</file>
+        <file>Resources/roadpic.png</file>
+        <file>Resources/exit.png</file>
+        <file>Resources/people_press.png</file>
+        <file>Resources/people.png</file>
+        <file>Resources/setting.png</file>
+        <file>Resources/arrow_down_gray.png</file>
+        <file>Resources/place.png</file>
+        <file>Resources/road.png</file>
+        <file>Resources/bike.png</file>
+        <file>Resources/car.png</file>
+        <file>Resources/test.png</file>
+        <file>Resources/car.jpg</file>
+        <file>Resources/person.jpg</file>
+        <file>Resources/view.png</file>
+    </qresource>
+</RCC>
